@@ -1,0 +1,7 @@
+{
+  "name": "copy",
+  "description": "An AI-powered assistant that records your screen, analyzes your actions, and automatically generates a step-by-step guide of your process. You can then edit the steps and have them read aloud.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
